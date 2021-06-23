@@ -2,7 +2,7 @@ import React, { useState } from 'react';  //, useRef, useEffect
 import { CSSTransition } from 'react-transition-group';
 
 import './App.css';
-import './index.css'
+// import './index.css'
 
 function App() {
   return (
